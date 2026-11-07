@@ -1,0 +1,6 @@
+Model,Best CV F1 Score,Best Parameters
+Logistic Regression,0.37278663409396584,"{""classifier__C"": 10, ""classifier__solver"": ""liblinear""}"
+Decision Tree,0.4189767312695203,"{""classifier__criterion"": ""entropy"", ""classifier__max_depth"": 8, ""classifier__min_samples_leaf"": 5, ""classifier__min_samples_split"": 20}"
+KNN,0.30650045988921437,"{""classifier__n_neighbors"": 5, ""classifier__p"": 1, ""classifier__weights"": ""distance""}"
+Gaussian Naive Bayes,0.39248401247831144,"{""classifier__var_smoothing"": 1e-09}"
+SVM,0.3840581168494625,"{""classifier__C"": 0.01, ""classifier__loss"": ""hinge""}"
