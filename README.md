@@ -289,8 +289,7 @@ bank-marketing-classification/
 │   ├── knn_tuned_pipeline.joblib
 │   ├── gaussian_naive_bayes_tuned_pipeline.joblib
 │   └── svm_tuned_pipeline.joblib
-└── screenshots/
-    └── BITS_Virtual_Lab_Screenshot.png
+└── BITS_Virtual_Lab_Screenshot.png
 ```
 
 Adjust this example to reflect the files actually included in the GitHub
