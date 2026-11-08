@@ -292,8 +292,6 @@ bank-marketing-classification/
 └── BITS_Virtual_Lab_Screenshot.png
 ```
 
-Adjust this example to reflect the files actually included in the GitHub
-repository. Do not list files or artifacts that are not present.
 
 ## 14. Installation and Execution
 
