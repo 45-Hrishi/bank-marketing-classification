@@ -23,8 +23,8 @@ deployment.
 | Dataset | UCI Bank Marketing (`bank-full.csv`) |
 | Development Environment | BITS Virtual Lab |
 | Application Framework | Streamlit |
-| GitHub Repository | [(https://github.com/45-Hrishi/bank-marketing-classification.git)](YOUR_GITHUB_URL) |
-| Live Application | [Insert Streamlit Community Cloud URL](YOUR_STREAMLIT_URL) |
+| GitHub Repository | [(https://github.com/45-Hrishi/bank-marketing-classification.git)](GITHUB_URL) |
+| Live Application | [https://bank-marketing-classification-bitsp-aiml.streamlit.app/](STREAMLIT_URL) |
 
 ## 3. Problem Statement
 
