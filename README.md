@@ -24,7 +24,7 @@ deployment.
 | Development Environment | BITS Virtual Lab |
 | Application Framework | Streamlit |
 | GitHub Repository | [(https://github.com/45-Hrishi/bank-marketing-classification.git)](GITHUB_URL) |
-| Live Application | [https://bank-marketing-classification-bitsp-aiml.streamlit.app/](STREAMLIT_URL) |
+| Live Application | [(https://bank-marketing-classification-bitsp-aiml.streamlit.app)](STREAMLIT_URL) |
 
 ## 3. Problem Statement
 
@@ -263,8 +263,7 @@ The uploaded evaluation CSV must contain all required input features and
 the target column `y`. Upload test data only, as required by the
 assignment.
 
-**Live Streamlit application:** \[Insert deployed Streamlit Community
-Cloud URL\]
+**Live Streamlit application:** \[https://bank-marketing-classification-bitsp-aiml.streamlit.app/]
 
 ## 13. Repository Contents
 
