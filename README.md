@@ -263,7 +263,7 @@ The uploaded evaluation CSV must contain all required input features and
 the target column `y`. Upload test data only, as required by the
 assignment.
 
-**Live Streamlit application:** \[https://bank-marketing-classification-bitsp-aiml.streamlit.app]
+**Live Streamlit application:** (https://bank-marketing-classification-bitsp-aiml.streamlit.app)
 
 ## 13. Repository Contents
 
